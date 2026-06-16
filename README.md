@@ -42,39 +42,18 @@
 
 ---
 
-## 🚀 Agency Orchestrator — 让角色库真正跑起来
+## 🚀 让角色库跑起来 · Agency Orchestrator
 
-> **💡 一句话，让多个 AI 专家自动协作，几分钟交付完整方案。**
->
-> 角色库提供专家，[**Agency Orchestrator**](https://github.com/jnMetaCode/agency-orchestrator) 让专家们像真实团队一样协作。
+> 一句话，让多个 AI 专家自动组队协作，几分钟交付完整方案。
 
 ```bash
 npm install -g agency-orchestrator
 ao compose "帮我写一篇关于 AI Agent 的深度分析文章" --run
 ```
 
-> **🖥️ 不想用命令行？** 下载 **桌面客户端**（原生 App，免装 Node，双击即用）——在图形界面里浏览本仓库的 216 个角色、组队、一键运行：[**前往下载 →**](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)（macOS / Windows / Linux）。也可先在线体验 [ao.aiolaola.com](https://ao.aiolaola.com)。
+**不想用命令行？** [**下载桌面客户端**](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)（原生 App，免装 Node，macOS / Windows / Linux），或在线体验 [ao.aiolaola.com](https://ao.aiolaola.com)。
 
-```
-🎭 自动选角 → 叙事学家 + 心理学家 + 内容创作者 + 叙事设计师
-📊 自动编排 → DAG 工作流，检测依赖，并行执行
-✅ 自动交付 → 几分钟后拿到完整成果
-```
-
-| 能力 | 说明 |
-|:---|:---|
-| 🎯 **零代码编排** | 纯自然语言或 YAML，一句话描述需求即可 |
-| ⚡ **DAG 并行执行** | 自动检测依赖，无依赖步骤并行跑，速度翻倍 |
-| 🔄 **断点续跑** | 失败步骤可单独重跑，不用从头来 |
-| 🆓 **7 种免费 LLM** | Claude Code / Gemini CLI / Copilot / Codex / Hermes / OpenClaw / Ollama |
-| 💰 **3 种 API 接入** | DeepSeek / Claude API / OpenAI |
-| 📋 **32 个现成模板** | 开发、营销、数据分析、设计、运营，开箱即用 |
-
-<p align="center">
-  <a href="https://github.com/jnMetaCode/agency-orchestrator">
-    <strong>⭐ 查看 Agency Orchestrator — 让 216 个角色为你协作 →</strong>
-  </a>
-</p>
+零代码编排 · DAG 并行 · 断点续跑 · 10 种大模型（7 种免 key）· 现成模板开箱即用 —— [**了解 Agency Orchestrator →**](https://github.com/jnMetaCode/agency-orchestrator)
 
 > **社区编排方案**：[@Staok](https://github.com/Staok) 做了个 [agency-agents-router-skill](https://github.com/Staok/agency-agents-router-skill)（也在 [ClawHub](https://clawhub.ai/staok/agency-agents-router)）——让 OpenClaw 自动识别并编排本仓库的各个智能体。感谢社区贡献！🙏
 
